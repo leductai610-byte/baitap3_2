@@ -11,4 +11,4 @@
 ## 3. Kết quả Demo
 Ảnh chạy trên máy ảo Android:
 
-![Demo Bài 3.1](./ket-qua.png)
+![Demo Bài 3.2](./ket-qua.png)
